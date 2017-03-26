@@ -1,2 +1,2 @@
 # databases
-repository created for assignments for databases.
+repository created for assignments for the course of databases.
